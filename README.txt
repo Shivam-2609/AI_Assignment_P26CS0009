@@ -286,7 +286,7 @@ each dataset slot can use its own options, for example:
 Use the corresponding repository's SHA for each slot, rather than one global
 SHA for all three repositories.
 
-Latest supplied results (including training and other available public splits):
+Latest results (including training and other available public splits):
 
     Dataset          Questions   Correct   Accuracy   Inference seconds
     RuleTaker             1625      1600     98.46%            0.569105
